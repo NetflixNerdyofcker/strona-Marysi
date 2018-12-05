@@ -73,7 +73,7 @@ a{
     padding-right: 10px;
 }
 .nav-element:hover{
-    color:white;
+    color:rebeccapurple;
     cursor: pointer;
     right:0;
 }
