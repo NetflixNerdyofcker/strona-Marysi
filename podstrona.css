@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #d6cbd3;
+    font-family: 'Bungee', cursive;
+}
+header{
+    font-size:100px;
+    color:white;
+    text-shadow: -4px 4px black;
+    margin: 0 50px;
+}
+.content{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left:50px;
+}
+img{
+    height: 450px;
+    float:left; 
+}
+.opis{    
+
+    text-align: center;
+    color:black;
+    padding: 100px;
+}
+.video{
+    width:100%;
+    margin-top: 16vh;
+    margin-bottom: 50px;
+    text-align: center;
+}
+footer{
+    height:200px;
+    width:100%;
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    background-color: #ada397;
+    justify-content: center;
+}
